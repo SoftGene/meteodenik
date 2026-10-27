@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MeteoDenik</string>
+    <string name="title_activity_detail_mesta">DetailMestaActivity</string>
+    <string name="otevri_detail">Open detail</string>
+    <string name="mesto_nezname">Unknown city</string>
+    <string name="sdilet_zaznam">Share record</string>
+    <string name="sdileny_text">%1$s: %2$.1f °C — recorded in MeteoDenik</string>
+    <string name="teplota_format">%1$.1f °C</string>
+    <string name="teplota_chybi">Temperature missing</string>
+    <string name="poslat_zpravu">Save record</string>
+
+    <!-- Я добавил примерный перевод для пустых строк геолокации, чтобы они работали на английском -->
+    <string name="poloha_povolena">Location enabled</string>
+    <string name="poloha_bez_opravneni">\n</string>
+    <string name="otevrit_nastaveni">\n</string>
+    <string name="poloha_vysvetleni">Location access is required</string>
+    <string name="poloha_pokracovat">Continue</string>
+    <string name="poloha_zjistit">Get location</string>
+
+    <plurals name="pocet_zaznamu">
+        <item quantity="one">%1$d record</item>
+        <item quantity="other">%1$d records</item>
+    </plurals>
+</resources>

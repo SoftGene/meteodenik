@@ -8,4 +8,16 @@
     <string name="teplota_format">%1$.1f °C</string>
     <string name="teplota_chybi">Teplota chybí</string>
     <string name="poslat_zpravu">Zapsat záznam</string>
+    <string name="poloha_povolena" />
+    <string name="poloha_bez_opravneni">\n</string>
+    <string name="otevrit_nastaveni">\n</string>
+    <string name="poloha_vysvetleni" />
+    <string name="poloha_pokracovat" />
+    <string name="poloha_zjistit" />
+    <plurals name="pocet_zaznamu">
+        <item quantity="one">%1$d záznam</item>
+        <item quantity="few">%1$d záznamy</item>
+        <item quantity="many">%1$d záznamu</item>
+        <item quantity="other">%1$d záznamů</item>
+    </plurals>
 </resources>
