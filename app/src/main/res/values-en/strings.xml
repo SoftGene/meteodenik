@@ -18,6 +18,14 @@
     <string name="poloha_pokracovat">Continue</string>
     <string name="poloha_zjistit">Get location</string>
 
+    <string name="mesta_titulek">My cities</string>
+    <string name="mesto_pole_label">New city</string>
+    <string name="mesto_pridat">Add</string>
+    <string name="mesto_teplota">%1$.1f °C</string>
+    <string name="mesto_chybi_teplota">?</string>
+    <string name="mesto_smazat">Delete</string>
+    <string name="mesto_zvoleno">Selected</string>
+
     <plurals name="pocet_zaznamu">
         <item quantity="one">%1$d record</item>
         <item quantity="other">%1$d records</item>

@@ -14,6 +14,14 @@
     <string name="poloha_vysvetleni" />
     <string name="poloha_pokracovat" />
     <string name="poloha_zjistit" />
+    <string name="mesta_titulek">Moje města</string>
+    <string name="mesto_pole_label">Nové město</string>
+    <string name="mesto_pridat">Přidat</string>
+    <string name="mesto_teplota">%1$.1f °C</string>
+    <string name="mesto_chybi_teplota">?</string>
+    <string name="mesto_smazat">Smazat</string>
+    <string name="mesto_zvoleno">Zvoleno</string>
+    <string name="mesta_prazdno">Zatím tu není žádné město. Přidejte první.</string>
     <plurals name="pocet_zaznamu">
         <item quantity="one">%1$d záznam</item>
         <item quantity="few">%1$d záznamy</item>
