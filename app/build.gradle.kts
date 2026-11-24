@@ -33,6 +33,7 @@ android {
     }
     buildFeatures {
         compose = true
+        buildConfig = true
     }
 }
 kotlin { compilerOptions { jvmTarget.set(org.jetbrains.kotlin.gradle.dsl.JvmTarget.JVM_17) } }
@@ -56,4 +57,10 @@ dependencies {
     implementation(libs.navigation.compose)
     implementation(libs.lifecycle.viewmodel.compose)
     implementation(libs.lifecycle.runtime.compose)
+    implementation(libs.retrofit)
+    implementation(libs.retrofit.kotlinx.serialization)
+    implementation(libs.kotlinx.serialization.json)
+    implementation(platform(libs.okhttp.bom))     // platform(), ne obyčejná závislost!
+    implementation(libs.okhttp)
+    implementation(libs.okhttp.logging.interceptor)
 }

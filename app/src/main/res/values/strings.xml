@@ -22,6 +22,13 @@
     <string name="mesto_smazat">Smazat</string>
     <string name="mesto_zvoleno">Zvoleno</string>
     <string name="mesta_prazdno">Zatím tu není žádné město. Přidejte první.</string>
+    <string name="chyba_bez_internetu">Nejste připojeni k internetu. Zkontrolujte připojení.</string>
+    <string name="chyba_timeout">Server neodpovídá. Zkuste to za chvíli.</string>
+    <string name="chyba_server">Chyba serveru. Zkuste to později.</string>
+    <string name="chyba_dat">Nepodařilo se zpracovat data ze serveru.</string>
+    <string name="chyba_neznama">Nastala neočekávaná chyba.</string>
+    <string name="akce_zkusit_znovu">Zkusit znovu</string>
+    <string name="akce_obnovit">Obnovit</string>
     <plurals name="pocet_zaznamu">
         <item quantity="one">%1$d záznam</item>
         <item quantity="few">%1$d záznamy</item>
